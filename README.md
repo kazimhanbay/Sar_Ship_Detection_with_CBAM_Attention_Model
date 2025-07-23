@@ -32,7 +32,7 @@ geçirilmesiyle hesaplanmıştır.
 </p>
 
 <p align="justify">
-<strong>NOT:Projede geliştirlen yönteme ait makale yazım aşamasındadır. Bu nedenle tüm açıklamalar ve diğer detaylar makalenin yayınlanması sonrasında buraya eklenecektir. </strong>
+<strong>NOT:Projede geliştirilen yönteme ait makale yazım aşamasındadır. Bu nedenle tüm açıklamalar ve diğer detaylar makalenin yayınlanması sonrasında buraya eklenecektir. </strong>
 </p>
 
 
