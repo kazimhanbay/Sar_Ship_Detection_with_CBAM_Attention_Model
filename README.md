@@ -1,4 +1,4 @@
-# Sar_Ship_Detection_with_CBAM_Attention_Model
+
 <h1 align="center">Attentation Blok Mimarisi ile Geliştirilen Gemi Tespit Yöntemi</h1>
 
 <p align="justify">
