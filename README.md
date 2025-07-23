@@ -14,7 +14,7 @@ Modelin genel akışı Şekil 1'de sunulmuştur.
   <img src="https://github.com/user-attachments/assets/2d95257f-2377-4e30-a9c4-19b34c6ded29" alt="SAR Görüntüsü">
 </p>
 
-<p align="center"><strong>Şekil 1.</strong> Önerilen Attentation-based Faster R-CNN tabanlı modelin genel mimarisi.</p>
+<p align="center"><strong>Şekil 1.</strong> Önerilen Attentation-based Faster R-CNN tabanlı modelin genel mimarisi. (GÜNCEL ŞEKİL EKLENECEKTİR)</p>
 
 
 <p align="justify">
