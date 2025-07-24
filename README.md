@@ -39,6 +39,16 @@ Modelin genel akışı Şekil 1'de sunulmuştur.
 </p>
 <p align="center"><strong>Şekil 3.</strong> Kara ve deniz alanlarını aynı anda içeren, ancak düşük gemi yoğunluğuna sahip sade sahnelerde modelin tespit sonuçları. Sol sütunda ground truth anotasyonları, sağ sütunda ise CBM-RCNN tahminleri yer almaktadır. Görsellerde, sahil hattı boyunca konumlanmış gemiler başarılı şekilde tespit edilmiştir. </p>
 
+<p align="justify">
+<h4>3. Kara ve Deniz Unsurlarının Birlikte Bulunduğu Basit Sahnelerde Tespit Performansı</h4>
+</p>
+<p align="center">
+<img width="1400" height="800" alt="şekil 4. CBM-RCNN modelinin tespit sonuçları" src="https://github.com/user-attachments/assets/cc751d74-c309-4936-9ae3-d6e2a291a358"/>
+</p>
+<p align="center"><strong>Şekil 4.</strong> Kara ve deniz alanlarını aynı anda içeren, ancak düşük gemi yoğunluğuna sahip sade sahnelerde modelin tespit sonuçları. Sol sütunda ground truth anotasyonları, sağ sütunda ise CBM-RCNN tahminleri yer almaktadır. Görsellerde, sahil hattı boyunca konumlanmış gemiler başarılı şekilde tespit edilmiştir.  </p>
+
+
+
 
 <p align="justify">
 <strong>NOT:Projede geliştirilen yönteme ait makale yazım aşamasındadır. Bu nedenle tüm açıklamalar ve diğer detaylar makalenin yayınlanması sonrasında buraya eklenecektir. </strong>
