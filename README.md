@@ -1,7 +1,10 @@
 
 <h1 align="center">Attentation Blok Mimarisi ile Geliştirilen Gemi Tespit Yöntemi</h1>
-
+<h4 align="justify"><strong>AÇIKLAMA:</strong> Aşağıda verilen sonuçlar ve temel açıklamalar proje sonuç raporunda detaylı olarak açılanmıştır. Performans metrikleri de yine proje sonuç raporunda verilmiştir. Yönteme ait makale yazımı devam etmektedir. Bu nedenle yöntemin tüm detayarı ve performans analiz sonuçları makalede verilecektir. </h4>
+<p align="justify"> <h4 align="justify">Proje çalışmasında gemileri segmentasyon yöntemi ile de tespit eden bir derin öğrenme modeli geliştirlmiştir. Bu yönteme ait paylaşımlarda süreç içerisinde yapılacaktır. </h4></p>
+<p align="justify"><h4>Yöntemlere ait öneri ve görüşleriniz için mail atabilirsiniz. (E-mail: kazim.hanbay@inonu.edu.tr)</h4></p>
 <p align="justify">
+<h4>Yöntem Hakkında Genel Açıklama</h4>
 123E344 nolu TÜBİTAK 1001 projesi kapsamında geliştirilen bu yöntemde dikkat mekanizması temelinde bir derin öğrenme modeli geliştirlmiştir. Gemi tespiti amacıyla önerilen derin öğrenme mimarisi CBM-RCNN (Channel-Boosted Multi-Scale R-CNN), temel olarak Faster R-CNN üzerine inşa edilmiştir. Modelin genel yapısı, dikkat modülleri ve çok seviyeli öznitelik birleştirme mekanizmaları ile iyileştirilmiştir. Özellikle ResNet50 omurgası üzerine entegre edilen CBAM (Convolutional Block Attention Module) blokları ile öznitelik haritalarına hem kanal hem de uzamsal dikkat uygulanarak daha odaklı temsil öğrenimi sağlanmıştır. Ayrıca, geleneksel FPN yapısı yerine BiFPN (Bidirectional Feature Pyramid Network) kullanılarak, farklı çözünürlük seviyelerindeki özniteliklerin çift yönlü bilgi akışı ile birleştirilmesi sağlanmış ve bu sayede küçük nesnelerin tespitinde de yüksek başarı elde edilmiştir.
 </p>
 
