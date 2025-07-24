@@ -58,6 +58,16 @@ Modelin genel akışı Şekil 1'de sunulmuştur.
 
 
 <p align="justify">
+<h4>5. Modelin Hatalı Tespitleri ve Yanlış Pozitif/Negatif Analizi</h4>
+</p>
+<p align="center">
+<img width="1300" height="800" alt="şekil 5. CBM-RCNN modelinin tespit sonuçları" src="https://github.com/user-attachments/assets/b49b8d32-d3aa-453c-bcb7-86ccfd802ee6"/>
+</p>
+
+<p align="center"><strong>Şekil 5.</strong> Farklı zorluk seviyelerine sahip örnek sahnelerde CBM-RCNN modelinin hatalı tespit analizi:(a)GroundTruth;(b) Model Tahmini (merkez skorları ile); (c) Doğru, yanlış pozitif ve yanlış negatiflerin gösterimi. </p>
+
+
+<p align="justify">
 <strong>NOT:Projede geliştirilen yönteme ait makale yazım aşamasındadır. Bu nedenle tüm açıklamalar ve diğer detaylar makalenin yayınlanması sonrasında buraya eklenecektir. </strong>
 </p>
 
