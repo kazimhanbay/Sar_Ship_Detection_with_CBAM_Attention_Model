@@ -1,5 +1,5 @@
 
-<h1 align="center">Attentation Blok Mimarisi ile Geliştirilen Gemi Tespit Yöntemi</h1>
+<h1 align="center">Attention Blok Mimarisi ile Geliştirilen Gemi Tespit Yöntemi</h1>
 <h4 align="justify"><strong>AÇIKLAMA:</strong> Aşağıda verilen sonuçlar ve temel açıklamalar proje sonuç raporunda detaylı olarak açılanmıştır. Performans metrikleri de yine proje sonuç raporunda verilmiştir. Yönteme ait makale yazımı devam etmektedir. Bu nedenle yöntemin tüm detayarı ve performans analiz sonuçları makalede verilecektir. </h4>
 <p align="justify"> <h4 align="justify">Proje çalışmasında gemileri segmentasyon yöntemi ile de tespit eden bir derin öğrenme modeli geliştirlmiştir. Bu yönteme ait paylaşımlarda süreç içerisinde yapılacaktır. </h4></p>
 <p align="justify"><h4>Yöntemlere ait öneri ve görüşleriniz için mail atabilirsiniz. (E-mail: kazim.hanbay@inonu.edu.tr)</h4></p>
